@@ -13,7 +13,6 @@ Run the project:
 ```bash
 yarn start
 ```
-#Weather App
 
 ![we](https://user-images.githubusercontent.com/65077990/111892549-6c929900-8a22-11eb-8573-a7a6d211f45a.PNG)
 ![we2](https://user-images.githubusercontent.com/65077990/111892550-6e5c5c80-8a22-11eb-9579-033345a66498.PNG)
